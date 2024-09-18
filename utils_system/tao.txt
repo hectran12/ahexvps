@@ -1,5 +1,0 @@
-{"error":0,"message":"\u0110\u1eb7t h\u00e0ng th\u00e0nh c\u00f4ng","credit":5700000,"total":50000,"data":[{"vps-id":9322,"date_create":"05-05-2024","next_due_date":"2024-06-05","vps-status":"progressing","is-special":0,"ip":"103.67.199.11","username":"Administrator","password":"FqxH7fvYr8R8ybwZ"}]}
-{"error":99999,"message":"Auth Token kh\u00f4ng t\u1ed3n t\u1ea1i."}
-{"error":99999,"message":"Auth Token kh\u00f4ng t\u1ed3n t\u1ea1i."}
-{"error":99999,"message":"Auth Token kh\u00f4ng t\u1ed3n t\u1ea1i."}
-{"error":0,"message":"Y\u00eau c\u1ea7u t\u1eaft VPS th\u00e0nh c\u00f4ng."}
